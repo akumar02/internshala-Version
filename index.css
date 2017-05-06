@@ -1,0 +1,25 @@
+.intern{
+	width:500px;
+	min-height:200px;
+	background-color: grey;
+}
+.intern-display{
+	width:50%;
+	margin-left: 25%;
+}
+
+.taglinetop{
+	background-image: url("background.jpg");
+	width:100%;
+	height:500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow:hidden;
+    text-align: center;
+}
+.tagline-top{
+	margin-top: 200px;
+	color:brown;
+}
